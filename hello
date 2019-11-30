@@ -1,0 +1,11 @@
+#if 1>2:
+#	print('hello, world')
+#else:
+#	print ('hi')
+name = 'Bogdan'
+if name == 'Bogdan':
+    print('Hey Bogdan!')
+elif name == 'Olha':
+    print('Hey Olha!')
+else:
+    print('Hey nobody!')

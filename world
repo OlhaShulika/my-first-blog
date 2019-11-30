@@ -1,0 +1,44 @@
+#if 1>2:
+#	print('hello, world')
+#else:
+#	print ('hi')
+
+
+#name = 'Bogdan'
+#if name == 'Bogdan':
+#    print('Hey Bogdan!')
+#elif name == 'Olha':
+#    print('Hey Olha!')
+#else:
+#    print('Hey nobody!')
+
+#def hi():
+#    print('Hi there!')
+#    print('How are you?')
+
+#hi()
+#hi()
+
+
+#def hi(name):
+#   if name == 'Ola':
+#       print('Hi Ola!')
+#   elif name == 'Sonja':
+#       print('Hi Sonja!')
+#   else:
+#       print('Hi anonymous!')
+#
+#hi('Ola')
+
+
+#def hi(name):
+#    print('Hi ' + name + '!')
+#
+#girls = ['Rachel', 'Monica', 'Phoebe', 'Ola', 'Olha']
+#for name in girls:
+#    hi(name)
+# 	print('Next girl')
+
+
+for i in range(1, 5):
+    print(i)
